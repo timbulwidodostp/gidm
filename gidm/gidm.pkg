@@ -1,5 +1,13 @@
-d 'DEA': Data envelopment analysis
+d 'gidm': Generalized inflated discrete models Use gidm With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f gidm.ado
+f gidm.sthlp
+f gidm_lgcl_d1.ado
+f gidm_lgcp_d1.ado
+f gidm_lgml_d1.ado
+f gidm_lgnb_lf.ado
+f gidm_lgpo_lf.ado
+f gidm_pbcl_d1.ado
+f gidm_pbcp_d1.ado
+f gidm_pbml_d1.ado
+f gidm_pbpo_lf.ado
